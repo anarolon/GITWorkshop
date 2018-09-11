@@ -1,3 +1,2 @@
-HELLO WORLD
-
-I am a happy potato
+WORLD
+I am a happy elf
